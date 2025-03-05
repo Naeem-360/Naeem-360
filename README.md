@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naeem Mahmud</h1>
-<h3 align="center">AI and Machine Learning enthusiast</h3>
+<h3 align="center">AI/ML and automation enthusiast exploring intelligent systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naeem-360&label=Profile%20views&color=0e75b6&style=flat" alt="naeem-360" /> </p>
 
