@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naeem-360" alt="naeem-360" /></a> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python** and **automation**
 
 - 💬 Ask me about **python, html**
 
