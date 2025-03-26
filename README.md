@@ -37,13 +37,13 @@
 
 <h3 align="left">💻 Find Me Here:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/naeem mahmud" target="_blank">
+  <a href="https://www.linkedin.com/in/naeem-mahmud-/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a> 
-  <a href="https://facebook.com/your-facebook-username" target="_blank">
+  <a href="https://web.facebook.com/tanzid.islam.211174" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a> 
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
+  <a href="https://x.com/Naeem4224" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/>
   </a> 
 </p>
