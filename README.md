@@ -7,13 +7,20 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=naeem-360&theme=github&margin-w=15&column=6" alt="naeem-360" />
+    <img src="https://github-profile-trophy.vercel.app/?username=naeem-360&theme=dracula&margin-w=15&column=6" alt="naeem-360" />
   </a> 
 </p>
 
 - 🌱 I’m currently learning **Python** and **Automation**  
 - 💬 Ask me about **Python, HTML**  
 - 📫 How to reach me: **naeemmahmud4664@gmail.com**
+
+---
+
+<h3 align="left">🔍 My Interests:</h3>
+<p align="left">
+  I’m deeply passionate about <b>Artificial Intelligence (AI)</b> and <b>Machine Learning (ML)</b>, with a focus on building intelligent systems that solve real-world problems. I also enjoy exploring <b>Automation</b> to streamline workflows and enhance productivity. My goal is to leverage these technologies to create innovative solutions that make a meaningful impact.
+</p>
 
 ---
 
@@ -52,10 +59,10 @@
 
 <h3 align="left">📊 My GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naeem-360&show_icons=true&locale=en&theme=github" alt="naeem-360" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naeem-360&show_icons=true&locale=en&theme=dracula" alt="naeem-360" />
 </p>
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeem-360&show_icons=true&locale=en&layout=compact&theme=github" alt="naeem-360" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeem-360&show_icons=true&locale=en&layout=compact&theme=dracula" alt="naeem-360" />
 </p>
