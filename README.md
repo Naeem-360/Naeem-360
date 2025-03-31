@@ -19,12 +19,12 @@
 
 <h3 align="left">🔍 My Interests:</h3>
 <p align="left">
-  I’m deeply passionate about <b>Artificial Intelligence (AI)</b> and <b>Machine Learning (ML)</b>, with a focus on building intelligent systems that solve real-world problems. I also enjoy exploring <b>Automation</b> to streamline workflows and enhance productivity. My goal is to leverage these technologies to create innovative solutions that make a meaningful impact.
+  I’m passionate about <b>Artificial Intelligence (AI)</b> and <b>Machine Learning (ML)</b>, specializing in intelligent systems that tackle real-world challenges. I also focus on <b>Automation</b> to optimize workflows and boost productivity. My mission is to harness these technologies for innovative, impactful solutions.
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+<h3 align="left">💻 Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -42,7 +42,7 @@
 
 ---
 
-<h3 align="left">💻 Find Me Here:</h3>
+<h3 align="left">🔗 Find Me Here:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/naeem-mahmud-/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
